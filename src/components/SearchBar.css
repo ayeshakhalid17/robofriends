@@ -1,0 +1,12 @@
+.bar{
+    background-color: lightcyan;
+    box-sizing: border-box;
+    margin-bottom:25px;
+    padding:10px;
+    border:0;
+    border-bottom: 2px solid green;
+}
+.bar:focus, .bar:hover{
+    outline: none;
+    background-color:rgb(183, 248, 248);
+}

@@ -1,0 +1,12 @@
+.card{
+display:inline-block;
+align-items: center;
+justify-content: center;
+text-align: center;
+background-color: aquamarine;
+margin:7px;
+padding:3px;
+width:285px;
+height:350px;
+box-shadow: lightgreen;
+}
